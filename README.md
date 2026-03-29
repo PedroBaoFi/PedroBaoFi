@@ -1,6 +1,18 @@
 ## Hi there 👋
 # 💫 About Me:
-<br>I'm Pedro Aguillera, an aspiring inventor from Brazil.<br>I build games in Roblox using Lua and Blender. For me, the process of creating is as fun as playing.<br>I also design robots for battle competitions.<br>My favorite tools are a keyboard and the dark theme.<br>I'm currently learning machine learning with Python.<br>Fun Facts:<br><br>Biology and astronomy amateur<br>I build and launch rockets for fun<br>My favorite anime is Kaguya-sama<br>Hobbies: anime/manga, language learning, football
+I'm Pedro Aguillera, an aspiring inventor from Brazil.
+
+I build games in Roblox using Lua and Blender. For me, the process of creating is as fun as playing.<br>I also design robots for battle competitions.
+
+My favorite tools are a keyboard and the dark theme.
+
+I'm currently learning machine learning with Python.
+
+Fun Facts:
+- Biology and astronomy amateur
+- I build and launch rockets for fun
+- My favorite anime is Kaguya-sama
+- Hobbies: anime/manga, language learning, football
 
 
 ## 🌐 Socials:
